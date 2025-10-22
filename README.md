@@ -96,7 +96,6 @@ The analysis is based on a relational database named **`pizzahut`** consisting o
 1. Import the SQL file into your MySQL or PostgreSQL database environment.  
 2. Ensure the required tables (`orders`, `orders_details`, `pizzas`, `pizza_types`) are created and populated.  
 3. Run each query sequentially to generate analytical insights.  
-4. (Optional) Visualize results in Power BI, Tableau, or Excel for dashboarding.
 
 ---
 
